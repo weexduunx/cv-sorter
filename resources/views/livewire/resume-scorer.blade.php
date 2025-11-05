@@ -408,11 +408,10 @@
                             <div
                                 x-show="expanded === {{ $index }}"
                                 x-collapse
-                                class="border-t border-gray-200"
-                            >
+                                class="border-t border-gray-200">
                                 <div class="p-6 space-y-6">
                                     <!-- Score Breakdown -->
-                                    @if(isset($resume['score_breakdown']) && !empty($resume['score_breakdown']))
+                                    {{-- @if(isset($resume['score_breakdown']) && !empty($resume['score_breakdown']))
                                         <div class="glass-card rounded-2xl p-6">
                                             <h5 class="font-bold text-gray-800 mb-4 flex items-center space-x-2">
                                                 <i class="fas fa-chart-bar text-blue-600"></i>
@@ -439,7 +438,7 @@
                                                 </div>
                                             </div>
                                         </div>
-                                    @endif
+                                    @endif --}}
 
                                     <!-- Actions -->
                                     <div class="flex flex-wrap gap-3 justify-between items-center">

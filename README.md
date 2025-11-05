@@ -463,5 +463,5 @@ Plus jamais de candidats à 100/100 sans légitimité - place à l'analyse **int
 
 **Version:** 1.0 - Algorithme Compétences
 **Dernière mise à jour:** Novembre 2025
-**Auteur:** Idrissa Ndiouck
+**Auteur:** GBG TEAM IT 
 **Technologies:** Laravel, PHP 8, IA Ready
